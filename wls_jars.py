@@ -115,7 +115,7 @@ def main():
 skriptet kollar brusta länkar under wlsdomännamn/applications
 och listar saknade jar filer i appserver.env och i appserver1_classpath.env
 om den finns. Skriptet försöker även kolla om man råkat specificera
-dubletter när leveransen innehåller länkar.
+dubbletter när leveransen innehåller länkar.
 ''')
         exit()
     else:
